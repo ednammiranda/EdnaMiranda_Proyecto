@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.miranda.edna.mirandachavez.Main3Activity">
+
+        <LinearLayout
+            android:id="@+id/llay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="1"
+            android:orientation="vertical" >
+
+
+            <Button
+                android:id="@+id/btnInscribirse"
+                android:layout_marginTop="10dp"
+                android:layout_height="34dp"
+                android:text="@string/inscripcion"
+                android:layout_width="wrap_content"
+                />
+
+            <Button
+                android:id="@+id/btnRegresar1"
+                android:layout_marginTop="10dp"
+                android:layout_height="34dp"
+                android:text="Regresar"
+                android:layout_width="wrap_content" />
+
+            <TextView
+                android:id="@+id/mesconsulta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/mes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/mes"
+                android:inputType="none" />
+
+            <EditText
+                android:id="@+id/dia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dia"/>
+
+            <EditText
+                android:id="@+id/fecha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/fecha"/>
+
+            <EditText
+                android:id="@+id/fecha1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/fecha1"/>
+
+            <EditText
+                android:id="@+id/fecha2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/fecha2"/>
+
+            <EditText
+                android:id="@+id/fecha3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/fecha3"/>
+
+            <EditText
+                android:id="@+id/nombre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/nombre"/>
+
+            <EditText
+                android:id="@+id/descripcion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/descripcion"/>
+
+            <EditText
+                android:id="@+id/duracion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/duracion"/>
+
+            <EditText
+                android:id="@+id/horario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/horario"/>
+
+            <EditText
+                android:id="@+id/costo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/costo"/>
+
+            <EditText
+                android:id="@+id/objetivo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/objetivo"/>
+
+            <EditText
+                android:id="@+id/requerimientos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/requerimientos"/>
+
+            <EditText
+                android:id="@+id/temario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/temario"/>
+
+            <EditText
+                android:id="@+id/direccion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/direccion"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
