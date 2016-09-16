@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">AGENDA CURSOS CERTIFICACIÓN</string>
+    <string name="bienvenido">             ¡BIENVENIDO!</string>
+    <string name="instrucciones">Desea consultar los cursos proximos de certificación o la información de los cursos disponibles? </string>
+    <string name="actualizar">Clic para saber si hay cursos de certificacion este mes</string>
+    <string name="fin">Borrar registros BD</string>
+    <string name="detalle">Ver detalle curso seleccionado</string>
+    <string name="proximamente">proximamente</string>
+    <string name="texto5">Hola</string>
+    <string name="registros">Meses que se imparten Cursos con Certificación</string>
+    <string name="inscripcion">inscripción</string>
+    <string name="elimSelec">Eliminar seleccionado</string>
+    <string name="regresar">Regresar</string>
+    <string name="seleccionar">Clic aqui para seleccionar el registro a eliminar</string>
+    <string name="verregistros">Clic en la paresina para ver los registros en la BD</string>
+    <string name="mes">Mes que se imparte el curso</string>
+    <string name="dia">Dia que se inicia el curso</string>
+    <string name="fecha">Fecha</string>
+    <string name="fecha1">Fecha</string>
+    <string name="fecha2">Fecha</string>
+    <string name="fecha3">Fecha</string>
+    <string name="nombre">Nombre curso</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="duracion">Duracion</string>
+    <string name="horario">Horario</string>
+    <string name="costo">Costo</string>
+    <string name="objetivo">Objetivo</string>
+    <string name="requerimientos">Requerimientos</string>
+    <string name="temario">Temario</string>
+    <string name="direccion">Direccion</string>
+
+</resources>
